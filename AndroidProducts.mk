@@ -15,3 +15,7 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_z2_plus.mk
+
+COMMON_LUNCH_CHOICES := \
+    posp_z2_plus-userdebug \
+    posp_z2_plus-eng
